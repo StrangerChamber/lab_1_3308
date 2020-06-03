@@ -1,3 +1,3 @@
 John (Jack) Blackburn
 
-https://github.com/StrangerChamber/lab_1_3308
+https://github.com/StrangerChamber/lab_1_3308.git
